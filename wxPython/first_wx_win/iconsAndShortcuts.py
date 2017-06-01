@@ -1,10 +1,11 @@
-#! \Python36
+#! \Python36\python
 
 
 import wx
 import sys
 
 APP_EXIT = 1
+
 
 class Example(wx.Frame):
     def __init__(self, *args, **kwargs):
